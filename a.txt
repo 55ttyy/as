@@ -1,0 +1,10 @@
+/root/go/vb/w1/tm 这是vibeCoding 题目 /root/go/vb/w1/q/task-01.md 问题。将答案放在 anser/1.json
+/root/go/vb/w1/tm 这是vibeCoding 题目 /root/go/vb/w1/q/task-02.md 问题。将答案放在 anser/2.json
+/root/go/vb/w1/tm 这是vibeCoding 题目 /root/go/vb/w1/q/task-03.md 问题。将答案放在 anser/3.json
+/root/go/vb/w1/tm 这是vibeCoding 题目 /root/go/vb/w1/q/task-04.md 问题。将答案放在 anser/4.json
+/root/go/vb/w1/tm 这是vibeCoding 题目 /root/go/vb/w1/q/task-05.md 问题。将答案放在 anser/5.json
+/root/go/vb/w1/tm 这是vibeCoding 题目 /root/go/vb/w1/q/task-06.md 问题。将答案放在 anser/6.json
+/root/go/vb/w1/tm 这是vibeCoding 题目 /root/go/vb/w1/q/task-07.md 问题。将答案放在 anser/7.json
+/root/go/vb/w1/tm 这是vibeCoding 题目 /root/go/vb/w1/q/task-08.md 问题。将答案放在 anser/8.json
+/root/go/vb/w1/tm 这是vibeCoding 题目 /root/go/vb/w1/q/task-09.md 问题。将答案放在 anser/9.json
+/root/go/vb/w1/tm 这是vibeCoding 题目 /root/go/vb/w1/q/task-10.md 问题。将答案放在 anser/10.json

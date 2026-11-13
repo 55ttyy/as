@@ -1,0 +1,46 @@
+{
+  "选手名称": "",
+  "参赛包编号": "pkg-08e82c8d",
+  "答案": [
+    {
+      "题号": "M051-S001",
+      "查询语句": "country=\"US\" && org=\"OVH SAS\" && port=\"2087\" && title==\"WHM 登录\""
+    },
+    {
+      "题号": "M052-S002",
+      "查询语句": "domain=\".io\" && app=\"WordPress\""
+    },
+    {
+      "题号": "M053-S009",
+      "查询语句": "city=\"Xiamen\" && port=\"80\" && status_code=\"200\""
+    },
+    {
+      "题号": "M054-S009",
+      "查询语句": "country=\"GB\" && cloud_name=\"DigitalOcean\" && body=\"/api/show\""
+    },
+    {
+      "题号": "M055-S003",
+      "查询语句": "country=\"CN\" && header=\"Set-Cookie\" && body=\"/admin\""
+    },
+    {
+      "题号": "M056-S008",
+      "查询语句": "domain=\"baidu.com\" && (body=\"Login\" || body=\"admin\" || body=\"Dashboard\" || body=\"管理\" || header=\"Set-Cookie\")"
+    },
+    {
+      "题号": "M057-S012",
+      "查询语句": "ip=\"13.0.0.0/8\" && status_code=\"200\" && (body=\"Welcome\" || body=\"Sign in\" || body=\"Dashboard\")"
+    },
+    {
+      "题号": "M058-S012",
+      "查询语句": "country=\"DE\" && (host=\"amazonaws.com\" || domain=\"amazonaws.com\" || cname_domain=\"amazonaws.com\" || cert=\"amazonaws.com\" || cert.domain=\"amazonaws.com\")"
+    },
+    {
+      "题号": "M059-S006",
+      "查询语句": "port=\"143\" && cert.serial_number==\"1\" && (cert=\"TAK\" || cert=\"ATAK\" || cert=\"WinTAK\" || cert=\"Squad\" || cert=\"CoT\")"
+    },
+    {
+      "题号": "M060-S010",
+      "查询语句": "ip=\"113.247.228.0/24\" && (port=\"80\" || port=\"443\" || port=\"8080\" || port=\"8443\")"
+    }
+  ]
+}

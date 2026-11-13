@@ -1,0 +1,46 @@
+{
+  "选手名称": "",
+  "参赛包编号": "pkg-08e82c8d",
+  "答案": [
+    {
+      "题号": "M091-S009",
+      "查询语句": "该需求不能直接转换为FOFA搜索语句"
+    },
+    {
+      "题号": "M092-S007",
+      "查询语句": "该需求不能直接转换为FOFA搜索语句"
+    },
+    {
+      "题号": "M093-S004",
+      "查询语句": "country=\"US\" && country!=\"US\""
+    },
+    {
+      "题号": "M094-S004",
+      "查询语句": "该需求不能直接转换为FOFA搜索语句"
+    },
+    {
+      "题号": "M095-S010",
+      "查询语句": "该需求不能直接转换为FOFA搜索语句"
+    },
+    {
+      "题号": "M096-S001",
+      "查询语句": "(body=\"Jenkins-Agent-Protocols\" || body=\"Jenkins-Version\" || body=\"Jenkins-Session\" || body=\"Remoting-Version\" || banner=\"Jenkins-Agent-Protocols\" || banner=\"Jenkins-Version\" || banner=\"Jenkins-Session\" || banner=\"Remoting-Version\")"
+    },
+    {
+      "题号": "M097-S001",
+      "查询语句": "icon_hash=\"-1274813287\""
+    },
+    {
+      "题号": "M098-S001",
+      "查询语句": "host=\"gov.cn.\""
+    },
+    {
+      "题号": "M099-S001",
+      "查询语句": "app=\"Apache HTTP Server\""
+    },
+    {
+      "题号": "M100-S001",
+      "查询语句": "cert.issuer.cn==\"ZeroSSL ECC DV SSL CA 2\" && cert.serial_number==\"63:BD:83:71:62:14:83:6E:F8:00:75:35:61:61:EB:06\""
+    }
+  ]
+}

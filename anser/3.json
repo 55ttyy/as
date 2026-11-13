@@ -1,0 +1,46 @@
+{
+  "选手名称": "",
+  "参赛包编号": "pkg-08e82c8d",
+  "答案": [
+    {
+      "题号": "M021-S010",
+      "查询语句": "protocol=\"ssh\" && banner=\"OpenSSH_10.4\""
+    },
+    {
+      "题号": "M022-S007",
+      "查询语句": "country=\"JP\" && app=\"Hikvision-Webs\""
+    },
+    {
+      "题号": "M023-S002",
+      "查询语句": "domain~=\"^[a-zA-Z0-9]\\.[a-zA-Z0-9]\\.163\\.com$\""
+    },
+    {
+      "题号": "M024-S005",
+      "查询语句": "version==\"10.0.0\""
+    },
+    {
+      "题号": "M025-S010",
+      "查询语句": "category=\"Middleware\""
+    },
+    {
+      "题号": "M026-S002",
+      "查询语句": "body=\"NoSuchUpload\""
+    },
+    {
+      "题号": "M027-S008",
+      "查询语句": "header=\"Content-Security-Policy-Report-Only\""
+    },
+    {
+      "题号": "M028-S011",
+      "查询语句": "status_code=\"308\""
+    },
+    {
+      "题号": "M029-S010",
+      "查询语句": "banner=\"SSH-2.0-OpenSSH_6.1\""
+    },
+    {
+      "题号": "M030-S003",
+      "查询语句": "header=\"Set-Cookie:PHPSESSID\""
+    }
+  ]
+}

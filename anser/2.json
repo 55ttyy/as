@@ -1,0 +1,46 @@
+{
+  "选手名称": "",
+  "参赛包编号": "pkg-08e82c8d",
+  "答案": [
+    {
+      "题号": "M011-S005",
+      "查询语句": "country=\"CN\" && region=\"Hebei\" && cloud_name=\"Huawei\""
+    },
+    {
+      "题号": "M012-S009",
+      "查询语句": "port=\"3000\""
+    },
+    {
+      "题号": "M013-S003",
+      "查询语句": "(title=\"Jenkins\" || body=\"jenkins\") && country!=\"CN\" && after=\"2026-08-01\""
+    },
+    {
+      "题号": "M014-S002",
+      "查询语句": "country=\"CN\" && protocol=\"dns\""
+    },
+    {
+      "题号": "M015-S001",
+      "查询语句": "protocol=\"socks5\""
+    },
+    {
+      "题号": "M016-S006",
+      "查询语句": "protocol=\"ssh\" && port=\"22022\""
+    },
+    {
+      "题号": "M017-S001",
+      "查询语句": "base_protocol=\"tcp\""
+    },
+    {
+      "题号": "M018-S006",
+      "查询语句": "protocol=\"snmp\""
+    },
+    {
+      "题号": "M019-S010",
+      "查询语句": "protocol=\"memcached\" && country=\"US\""
+    },
+    {
+      "题号": "M020-S005",
+      "查询语句": "protocol=\"ftp\" && base_protocol=\"tcp\""
+    }
+  ]
+}

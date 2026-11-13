@@ -1,0 +1,46 @@
+{
+  "选手名称": "",
+  "参赛包编号": "pkg-08e82c8d",
+  "答案": [
+    {
+      "题号": "M041-S001",
+      "查询语句": "cert=\"google.com\" && is_honeypot=false && is_fraud=false"
+    },
+    {
+      "题号": "M042-S003",
+      "查询语句": "(cert.subject=\"example.com\" || cert.domain=\"example.com\")"
+    },
+    {
+      "题号": "M043-S004",
+      "查询语句": "tls.version=\"TLS 1.0\" && cert.is_expired=false"
+    },
+    {
+      "题号": "M044-S007",
+      "查询语句": "jarm=\"21d21d00021d21d00021d21d21d21dce319294781f0e12867fd06896a000ea\" && status_code=\"307\" && header=\"Content-Length: 0\""
+    },
+    {
+      "题号": "M045-S001",
+      "查询语句": "os=\"Linux\""
+    },
+    {
+      "题号": "M046-S013",
+      "查询语句": "country=\"CN\" && country!=\"HK\" && country!=\"MO\" && country!=\"TW\" && domain=\"\" && type=\"web\""
+    },
+    {
+      "题号": "M047-S011",
+      "查询语句": "该需求不能直接转换为FOFA搜索语句"
+    },
+    {
+      "题号": "M048-S001",
+      "查询语句": "country=\"CA\" && cert.is_match=false"
+    },
+    {
+      "题号": "M049-S010",
+      "查询语句": "country=\"TR\" && ja3s=\"f4febc55ea12b31ae17cfb7e614afda8\""
+    },
+    {
+      "题号": "M050-S004",
+      "查询语句": "org=\"Inc\""
+    }
+  ]
+}

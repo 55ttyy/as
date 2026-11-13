@@ -1,0 +1,46 @@
+{
+  "选手名称": "",
+  "参赛包编号": "pkg-08e82c8d",
+  "答案": [
+    {
+      "题号": "M081-S011",
+      "查询语句": "app=\"Grafana\" && ((header_hash!=\"\" && body_hash!=\"\") || (header_hash!=\"\" && icon_hash!=\"\") || (header_hash!=\"\" && fid!=\"\") || (body_hash!=\"\" && icon_hash!=\"\") || (body_hash!=\"\" && fid!=\"\") || (icon_hash!=\"\" && fid!=\"\"))"
+    },
+    {
+      "题号": "M082-S001",
+      "查询语句": "(domain=\"kuaihuoyun.com\" || domain=\"wlhyos.cn\" || domain=\"wlhyos.com\" || domain=\"56ctms.com\" || domain=\"xiaokuaikeji.com\" || domain=\"zhihuiwuliu.org.cn\" || cert=\"kuaihuoyun.com\" || cert=\"wlhyos.cn\" || cert=\"wlhyos.com\" || cert=\"56ctms.com\" || cert=\"xiaokuaikeji.com\" || cert=\"zhihuiwuliu.org.cn\") && cert.is_match=true && cert.is_valid=true && cert.not_after>\"2024-01-01 00:00:00\" && cert.not_after<\"2026-08-30 18:17:49\""
+    },
+    {
+      "题号": "M083-S008",
+      "查询语句": "header=\"Server: nginx\" && title=\"Welcome\""
+    },
+    {
+      "题号": "M084-S004",
+      "查询语句": "title=\"Grafana\" && body=\"JavaScript\""
+    },
+    {
+      "题号": "M085-S001",
+      "查询语句": "body=\"login\" && (domain=\"bet\" || domain=\"casino\" || domain=\"kasino\")"
+    },
+    {
+      "题号": "M086-S006",
+      "查询语句": "domain=\"google\" && domain!=\"google.com\" && title=\"\""
+    },
+    {
+      "题号": "M087-S009",
+      "查询语句": "(header=\"server: Tengine\" || header=\"x-cache: MISS\")"
+    },
+    {
+      "题号": "M088-S004",
+      "查询语句": "asn!=\"4134\" && region=\"HK\" && server==\"Apache\""
+    },
+    {
+      "题号": "M089-S010",
+      "查询语句": "app=\"HFS\" && (port=\"80\" || (port=\"8080\" && status_code=\"200\"))"
+    },
+    {
+      "题号": "M090-S008",
+      "查询语句": "header=\"Content-Length: 1171\" && header=\"Etag: \\\"6aa522a3-493\\\"\" && header=\"Accept-Ranges\" && header=\"Cache-Control\" && header=\"Content-Type\" && header=\"Date\" && header=\"Last-Modified\" && header=\"Server\" && header=\"Vary\""
+    }
+  ]
+}

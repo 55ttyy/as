@@ -1,0 +1,44 @@
+{
+  "答案": [
+    {
+      "题号": "M071-S006",
+      "查询语句": "app=\"Grafana\" && country=\"CN\" && country!=\"HK\" && country!=\"MO\" && country!=\"TW\""
+    },
+    {
+      "题号": "M072-S008",
+      "查询语句": "domain=\".edu.ar\" && (port=\"80\" || port=\"443\") && server!=\"nginx\" && server!=\"WAF\""
+    },
+    {
+      "题号": "M073-S003",
+      "查询语句": "ip=\"1.1.1.1\" && domain!=\"\""
+    },
+    {
+      "题号": "M074-S008",
+      "查询语句": "cert.domain=\"aliyun.com\" && cert.is_valid=true && domain=\"\""
+    },
+    {
+      "题号": "M075-S006",
+      "查询语句": "country=\"CN\" && domain!=\"\" && header=\"x-qiniu-zone\" && domain!=\"qiniudn.com\""
+    },
+    {
+      "题号": "M076-S004",
+      "查询语句": "title=\"\" && status_code=\"200\" && fid!=\"\" && icon_hash!=\"\" && host=\"admin\" && domain~=\"(^[a-zA-Z0-9-]{4}[.]com$|[.]cn$)\""
+    },
+    {
+      "题号": "M077-S009",
+      "查询语句": "body=\"class=\\\"container\\\"\""
+    },
+    {
+      "题号": "M078-S009",
+      "查询语句": "body=\"\\\"exception\\\": \\\"Symfony\\\\Component\\\\ErrorHandler\\\\Error\\\\FatalError\\\"\""
+    },
+    {
+      "题号": "M079-S006",
+      "查询语句": "ip=\"40.88.0.0/16\""
+    },
+    {
+      "题号": "M080-S006",
+      "查询语句": "(ip=\"47.96.0.1\" || ip=\"47.96.0.2\" || ip=\"47.96.0.3\" || ip=\"47.96.0.4\" || ip=\"47.96.0.5\") && (port=\"80\" || port=\"443\")"
+    }
+  ]
+}

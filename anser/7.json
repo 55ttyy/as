@@ -1,0 +1,46 @@
+{
+  "选手名称": "",
+  "参赛包编号": "pkg-08e82c8d",
+  "答案": [
+    {
+      "题号": "M061-S005",
+      "查询语句": "(title=\"Sign in\" || title=\"Login\") && port=\"80\" && ip_type=\"ipv4\""
+    },
+    {
+      "题号": "M062-S010",
+      "查询语句": "country=\"NZ\" && (port=\"80\" || port=\"443\") && cloud_name!=\"\""
+    },
+    {
+      "题号": "M063-S001",
+      "查询语句": "(banner=\"IIS\" && banner=\"1.\") || header=\"IIS\""
+    },
+    {
+      "题号": "M064-S004",
+      "查询语句": "country=\"JP\" && domain!=\"\" && type=\"web\" && port=\"443\" && status_code=\"200\" && cert.is_valid=true && (title=\"大学\" || title=\"学部\" || title=\"研究\" || body=\"入学案内\" || body=\"学生\")"
+    },
+    {
+      "题号": "M065-S004",
+      "查询语句": "domain=\"baidu.com\" && (title=\"系统\" || title=\"平台\" || title=\"登录\" || title=\"管理\" || title=\"API\" || host=\"api\" || host=\"admin\" || host=\"dev\" || host=\"test\" || host=\"uat\" || host=\"pre\")"
+    },
+    {
+      "题号": "M066-S006",
+      "查询语句": "category=\"Mail Server\" && title=\"Mail\" && country!=\"US\""
+    },
+    {
+      "题号": "M067-S008",
+      "查询语句": "country=\"CN\" && country!=\"HK\" && country!=\"MO\" && country!=\"TW\" && port=\"8888\""
+    },
+    {
+      "题号": "M068-S005",
+      "查询语句": "body=\"Jenkins\" && title!=\"Jenkins\""
+    },
+    {
+      "题号": "M069-S001",
+      "查询语句": "country=\"TW\" && asn=\"20940\" && port=\"443\" && tls.version=\"TLS 1.3\" && cert.issuer.org!=\"Let's Encrypt\" && cert.issuer.org!=\"ZeroSSL\""
+    },
+    {
+      "题号": "M070-S003",
+      "查询语句": "app=\"HFS\" && country!=\"JP\" && status_code=\"200\" && title==\"HFS /\" && cloud_name!=\"Amazon\""
+    }
+  ]
+}
